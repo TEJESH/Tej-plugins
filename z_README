@@ -1,0 +1,6 @@
+Put the *.scm files in the GIMP scripts folder (~/.gimp-2.6/scripts/) and refresh scripts (<Image>/Filters/Script-Fu/Refresh Scripts) or restart GIMP.
+You will find the scripts then at these places in the GIMP image menu (tail -n1 *.scm):
+
+
+Happy gimping!
+elsamuko
